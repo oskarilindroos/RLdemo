@@ -1,4 +1,4 @@
 # omit videos
-demo/videos
+notebooks/videos
 
-demo/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints

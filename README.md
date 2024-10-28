@@ -2,13 +2,13 @@
 
 A docker environment for running reinforcement learning experiments in Jupyter notebook.
 
-## Installation
+## Installation (Linux)
 
 1. Install Docker: https://docs.docker.com/install/
-2. Install the NVIDIA Container Toolkit: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html
-3. Install NVIDIA drivers: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#installing-drivers
+2. Install NVIDIA drivers for your distribution
+3. Install the NVIDIA Container Toolkit: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html
 4. Clone this repository
-5. Build the docker image
+5. Build the docker compose file
 
 ```
 cd RLnotebook

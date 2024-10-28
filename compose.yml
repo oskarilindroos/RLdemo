@@ -7,7 +7,7 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - ./demo:/tf/demo
+      - ./notebooks:/tf/notebooks
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
       - NVIDIA_DISABLE_REQUIRE=1
