@@ -1,0 +1,4 @@
+# omit videos
+demo/videos
+
+demo/.ipynb_checkpoints
